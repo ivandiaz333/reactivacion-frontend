@@ -17,3 +17,7 @@ Mini proyecto en JavaScript para retomar la programación tras un periodo de blo
 ## Objetivo
 
 Reactivar hábitos de programación y construir confianza paso a paso.
+
+## Demo
+
+Proyecto en vivo: https://reactivacion-ivan.netlify.app/
